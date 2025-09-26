@@ -4,7 +4,7 @@
 
 ---
 
-## ⎇ About Me
+## ❄️ About Me
 - ⚡ Building **privacy-focused infrastructure** under the Paranoia Zone (PRNZ) brand  
 - ✦ Exploring **Rust**, **Svelte**, and distributed architectures  
 - ➤ Focused on **self-hosted services, automation, and security-by-design**
