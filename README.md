@@ -25,21 +25,21 @@
 ## 📊 GitHub Stats
 
 <details>
-<summary><b>▶ System Report: Languages</b></summary>
+<summary><b>System Report: Languages</b></summary>
 
 > ![langs](https://github-readme-stats.vercel.app/api/top-langs?username=paranoia-zone&layout=compact&theme=chartreuse-dark)
 
 </details>
 
 <details>
-<summary><b>▶ System Report: Activity</b></summary>
+<summary><b>System Report: Activity</b></summary>
 
 > ![stats](https://github-readme-stats.vercel.app/api?username=paranoia-zone&show_icons=true&theme=chartreuse-dark)
 
 </details>
 
 <details>
-<summary><b>▶ System Report: Streak</b></summary>
+<summary><b>System Report: Streak</b></summary>
 
 > ![streak](https://github-readme-streak-stats.herokuapp.com/?user=paranoia-zone&theme=chartreuse-dark)
 
